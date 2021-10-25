@@ -62,7 +62,48 @@ here is the data:
 </table>
 
 
-<table border="1" class="dataframe">\n  <thead>\n    <tr style="text-align: right;">\n      <th></th>\n      <th>dec_temps</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>count</th>\n      <td>1517.000000</td>\n    </tr>\n    <tr>\n      <th>mean</th>\n      <td>71.041529</td>\n    </tr>\n    <tr>\n      <th>std</th>\n      <td>3.745920</td>\n    </tr>\n    <tr>\n      <th>min</th>\n      <td>56.000000</td>\n    </tr>\n    <tr>\n      <th>25%</th>\n      <td>69.000000</td>\n    </tr>\n    <tr>\n      <th>50%</th>\n      <td>71.000000</td>\n    </tr>\n    <tr>\n      <th>75%</th>\n      <td>74.000000</td>\n    </tr>\n    <tr>\n      <th>max</th>\n      <td>83.000000</td>\n    </tr>\n  </tbody>\n</table>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>dec_temps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>count</th>
+      <td>1517.000000</td>
+    </tr>
+    <tr>
+      <th>mean</th>
+      <td>71.041529</td>
+    </tr>
+    <tr>
+      <th>std</th>
+      <td>3.745920</td>
+    </tr>
+    <tr>
+      <th>min</th>
+      <td>56.000000</td>
+    </tr>
+    <tr>
+      <th>25%</th>
+      <td>69.000000</td>
+    </tr>
+    <tr>
+      <th>50%</th>
+      <td>71.000000</td>
+    </tr>
+    <tr>
+      <th>75%</th>
+      <td>74.000000</td>
+    </tr>
+    <tr>
+      <th>max</th>
+      <td>83.000000</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
